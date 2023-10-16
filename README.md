@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunukro
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Lua, JavaScript
+- 🌱 I’m currently learning Python, Lua, JavaScript, c#
 - 📫 How to reach me email asd5dorkunefedahar@gmail.com
 
 <!---
